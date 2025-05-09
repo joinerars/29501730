@@ -1,0 +1,14 @@
+const perfil = {
+  "nombre": "Joiner Antonio Rojas Sánchez",
+  "descripcion": "Estudiante de Computación...",
+  "color": "Verde",
+  "libro": "Maze Runner",
+  "musica": "Pop",
+  "video_juego": "Call Of Duty Mobile",
+  "lenguajes": ["C++", "C", "JavaScript", "Python"],
+  "email": "joinerars@gmail.com",
+  "ci": "29501730",
+  "genero": "masculino",
+  "fecha_nacimiento": "2001-01-01",
+  "imagen": "29501730Grande.jpg"
+};
